@@ -1,0 +1,55 @@
+body,h1,p{
+  background: lightblue;
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+  color:white;
+  vertical-align: middle;
+}
+a:hover{
+  background-color: black;
+}
+header h1{
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+}
+.cl{
+  border:1px solid green;
+  width: 1080px;
+  margin: auto;
+  padding: 0;
+  background:rgba(0,0,256,0.2);
+  vertical-align: middle;
+}
+nav{
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  vertical-align: middle;
+
+}
+nav li{
+  display: inline;
+  background-color: brown;
+  color:white;
+  vertical-align: middle;
+  width: 180px;
+  height: 50px;
+}
+.box{
+  text-align: center;
+  vertical-align: middle;
+  float :left;
+  display: block;
+  width: 180px;
+  height: 50px;
+}
