@@ -8,5 +8,8 @@ The preview of the **mini Quora Application** is in the following [link click he
 > I will official update this when i publish mini Quora application in playstore.
 > - Rajkumar R
 
-The preview of mini quora looks like
+The preview of mini quora looks like:
+
 ![preiew img](https://github.com/rajkumar1206/Rajkumar/blob/master/assets/img/preview.png)
+
+**For more documentation on protype model refer wiki page...**
