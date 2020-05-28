@@ -9,4 +9,4 @@ The preview of the **mini Quora Application** is in the following [link click he
 > - Rajkumar R
 
 The preview of mini quora looks like
-![preiew img](https://github.com/rajkumar1206/Rajkumar/tree/master/assets/img/preview.png)
+![preiew img](https://github.com/rajkumar1206/Rajkumar/blob/master/assets/img/preview.png)
